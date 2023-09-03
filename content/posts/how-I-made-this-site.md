@@ -29,3 +29,10 @@ tags = ["hugo", "notes", "github"]
 
 ## Putting it on GitHub
 
+- Create repo egdocs.github.io and clone in GitHub desktop
+- in config.toml change baseurl to `https://terryinfcco.github.io/egdocs.github.io`
+- Next step is to copy the site to the github folder we just cloned with GitHub Desktop. 
+- But first in the themes folder in each theme look for .git directories and delete them.
+- Now copied the subdirectories and files in tedlinux but not the tedlinux parent directory to `Documents/GitHub/egdocs.github.io`
+- Then in GitHub Desktop summary - fill in a summary and description(optional), click Commit to main, then push origin
+- 

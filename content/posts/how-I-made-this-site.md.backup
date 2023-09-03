@@ -25,4 +25,13 @@ tags = ["hugo", "notes", "github"]
 - I added some tags to my-first-post.md and they worked great, but only after I restarted the server
 - He changed all the #9375fd in the themes/ink-free/static/css files to a color he like better
 - I changed the copyright notice in config.toml to Created so now at the bottom of the pages it says 2023 Created. 
-- Again in config.toml deleted all the social links except github and f
+- Again in config.toml deleted all the social links except github and fixed that to terryinfcco
+
+## Putting it on GitHub
+
+- Create repo egdocs.github.io and clone in GitHub desktop
+- in config.toml change baseurl to `https://terryinfcco.github.io/egdocs.github.io`
+- Next step is to copy the site to the github folder we just cloned with GitHub Desktop. 
+- But first in the themes folder in each theme look for .git directories and delete them.
+- Now copied the subdirectories and files in tedlinux but not the tedlinux parent directory to `Documents/GitHub/egdocs.github.io`
+- Then in GitHub Desktop summary - fill in a summary and description
