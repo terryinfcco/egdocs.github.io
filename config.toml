@@ -45,8 +45,8 @@ copyright = "Creation Date"
 	]
 
 	# Github base url
-	github = "https://github.com/chollinger93/ink-free"
-
+	# github = "https://github.com/chollinger93/ink-free"
+	github = "https://github.com/terryinfcco/egdocs.github.io"
 	# For statistics, we can compare the total word count against a book of your choice
 	statisticsEnabled = true
 	referenceBookWords = 11500.0
