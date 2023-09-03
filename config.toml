@@ -1,7 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "EG Documentation"
-theme = "ink-free"
+# theme = "ink-free"
+theme = "hugo-PaperMod"
 paginate = 5
 
 # copyright = "© Copyright notice"
