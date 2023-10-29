@@ -1,7 +1,7 @@
 +++
 title = 'October 28 2023'
 date = 2023-10-28T20:32:48-06:00
-draft = true
+draft = false
 
 tags = ["planning"]
 
