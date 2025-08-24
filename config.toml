@@ -74,11 +74,11 @@ name = "Tags & Stats"
 url = "/tags"
 weight = 4
 
-[[params.social]]
-name = "Github"
-icon = "github"
+# [[params.social]]
+# name = "Github"
+# icon = "github"
 # url = "https://github.com/chollinger93/"
-url = "https://github.com/terryinfcco/"
+# url = "https://github.com/terryinfcco/"
 
 # [[params.social]]
 # name = "Twitter"
